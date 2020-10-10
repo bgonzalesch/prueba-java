@@ -1,0 +1,7 @@
+09/10/2020 23:15:28 INFO  com.springboot.demo.SpringBootDemoApplication - Starting SpringBootDemoApplication on usuario with PID 9704 (C:\Workspace-General\Workspace_SpringBoot-Demo\demo\target\classes started by user in C:\Workspace-General\Workspace_SpringBoot-Demo\demo)
+09/10/2020 23:15:28 DEBUG com.springboot.demo.SpringBootDemoApplication - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+09/10/2020 23:15:28 INFO  com.springboot.demo.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+09/10/2020 23:15:31 DEBUG com.springboot.demo.config.JwtRequestFilter - Filter 'jwtRequestFilter' configured for use
+09/10/2020 23:15:32 INFO  com.springboot.demo.SpringBootDemoApplication - Started SpringBootDemoApplication in 5.137 seconds (JVM running for 6.688)
+09/10/2020 23:15:33 WARN  com.springboot.demo.config.JwtRequestFilter - JWT Token does not begin with Bearer String
+09/10/2020 23:15:33 DEBUG com.springboot.demo.controller.JwtAuthenticationController - Logueo exitoso
