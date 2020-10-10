@@ -12,7 +12,7 @@ Pasos para la instalación:
 	"password": "password"
 }
 
-Nota: El username puede varias dependiendo del contenido del archivo usuarios.txt. El password debe ser el mismo.
+Nota: El username puede variar dependiendo del contenido del archivo usuarios.txt. El password debe ser el mismo.
 
 7. Ejecutar y obtener copiar la respuesta del atributo token.
 8. En otra ventana, colocar la URL http://localhost:8085/saludarCliente
