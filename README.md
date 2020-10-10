@@ -18,3 +18,5 @@ Nota: El username puede variar dependiendo del contenido del archivo usuarios.tx
 8. En otra ventana, colocar la URL http://localhost:8085/saludarCliente
 9. Entrar a la pestaña Headers y agregar en el campo Key el valor "Authorization". Luego en el campo value la palabra "Bearer", dar un espacio y copiar la respuesta que se obtuvo en el atributo token.
 10. Ejecutar y se obtendrá la respuesta.
+* Si en el método login se manda un valor en el atributo "username" que no esté en el archivo txt, se mostrará una respuesta de error en la autenticación.
+* Si en el método saludarCliente no se manda el header, se mostrará una respuesta de error de autorización.
