@@ -14,7 +14,7 @@ Pasos para la instalación:
 
 Nota: El username puede variar dependiendo del contenido del archivo usuarios.txt. El password debe ser el mismo.
 
-7. Ejecutar y obtener copiar la respuesta del atributo token.
+7. Ejecutar y copiar la respuesta del atributo token.
 8. En otra ventana, colocar la URL http://localhost:8085/saludarCliente
 9. Entrar a la pestaña Headers y agregar en el campo Key el valor "Authorization". Luego en el campo value la palabra "Bearer", dar un espacio y copiar la respuesta que se obtuvo en el atributo token.
 10. Ejecutar y se obtendrá la respuesta.
